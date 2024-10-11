@@ -1,3 +1,3 @@
 # Perfekt-teszt
-# Első github bejegyzés, első commit
+# Első github, első commit
 #  második commit
